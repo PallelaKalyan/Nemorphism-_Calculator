@@ -1,7 +1,7 @@
 
 # Nemorphism Calculator
 
-!calci_preview.png
+![Calculator Screenshot](calci_preview.png)
 
 The Nemorphism Calculator is a sleek and user-friendly calculator application developed using HTML, CSS, and JavaScript. It implements the emerging design trend of Neumorphism, combining elements of flat design and skeuomorphism to create a modern and visually appealing user interface.
 
