@@ -1,10 +1,13 @@
 
-# Nemorphism Calculator
+# Neumorphism Calculator
 
 
 
-The Nemorphism Calculator is a sleek and user-friendly calculator application developed using HTML, CSS, and JavaScript. It implements the emerging design trend of Neumorphism, combining elements of flat design and skeuomorphism to create a modern and visually appealing user interface.
+The Neumorphism Calculator is a sleek and user-friendly calculator application developed using HTML, CSS, and JavaScript. It implements the emerging design trend 
+ of Neumorphism, combining elements of flat design and skeuomorphism to create a modern and visually appealing user interface.
+ 
  ![Calculator Screenshot](calci_preview.png)
+ 
 ## Features
 
 - Basic arithmetic operations: Addition, subtraction, multiplication, and division.
@@ -54,7 +57,7 @@ Contributions to the Nemorphism Calculator project are welcome and encouraged! T
 
 ## License
 
-The Nemorphism Calculator project is licensed under the [MIT License](LICENSE).
+The Neumorphism Calculator project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
